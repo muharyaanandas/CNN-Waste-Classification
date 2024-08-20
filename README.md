@@ -1,2 +1,2 @@
 # CNN-Waste-Classification
-Garbage Classification Using the Convolutional Neural Network (CNN) Method in Deep Learning
+Garbage Classification Using Convolutional Neural Network (CNN) Methods and MobileNet Architecture in Deep Learning
